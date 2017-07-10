@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="facebook_app_id">1404180256325301</string>
+    <string name="遊客首頁">遊客首頁</string>
+    <string name="導遊首頁">導遊首頁</string>
+    <string name="選擇身分">選擇身分</string>
+    <string name="facebook">Facebook登入</string>
+</resources>
