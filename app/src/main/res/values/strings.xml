@@ -5,4 +5,15 @@
     <string name="導遊首頁">導遊首頁</string>
     <string name="選擇身分">選擇身分</string>
     <string name="facebook">Facebook登入</string>
+    <string name="登出">登出</string>
+    <string name="client">遊客首頁</string>
+    <string name="button">音訊</string>
+    <string name="start">播放</string>
+    <string name="pause">暫停</string>
+    <string name="stop">停止</string>
+    <string name="播放">播放</string>
+    <string name="暫停">暫停</string>
+    <string name="textview">音檔名稱</string>
+    <string name="text">音檔名稱</string>
+    <string name="back">返回上一頁</string>
 </resources>

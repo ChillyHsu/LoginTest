@@ -24,7 +24,9 @@
             android:value="@string/facebook_app_id" />
 
         <activity android:name=".CheckpersonActivity" />
-        <activity android:name=".MainPageActivity"></activity>
+        <activity android:name=".MainPageActivity" />
+        <activity android:name=".Mymusic" />
+        <activity android:name=".Music"></activity>
     </application>
 
 </manifest>

@@ -7,7 +7,7 @@ import android.view.View;
 import android.content.Intent;
 
 
-public class MainPageActivity extends AppCompatActivity {
+public class MainPageActivity extends AppCompatActivity  {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,6 +21,18 @@ public class MainPageActivity extends AppCompatActivity {
                 // TODO Auto-generated method stub
                 Intent intent = new Intent();
                 intent.setClass(MainPageActivity.this,MainActivity.class);
+                startActivity(intent);
+                MainPageActivity.this.finish();
+            }
+        });
+        Button button04 = (Button)findViewById(R.id.Button04);
+
+        button04.setOnClickListener(new Button.OnClickListener(){
+            @Override
+            public void onClick(View v) {
+                // TODO Auto-generated method stub
+                Intent intent = new Intent();
+                intent.setClass(MainPageActivity.this,Music.class);
                 startActivity(intent);
                 MainPageActivity.this.finish();
             }
