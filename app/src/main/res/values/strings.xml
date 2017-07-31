@@ -16,4 +16,6 @@
     <string name="textview">音檔名稱</string>
     <string name="text">音檔名稱</string>
     <string name="back">返回上一頁</string>
+    <string name="button6">XX分頁</string>
+    <string name="button7">上傳檔案</string>
 </resources>
