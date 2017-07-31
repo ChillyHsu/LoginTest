@@ -25,9 +25,9 @@
 
         <activity android:name=".CheckpersonActivity" />
         <activity android:name=".MainPageActivity" />
-        <activity android:name=".Mymusic" />
         <activity android:name=".Music" />
-        <activity android:name=".uploadfile"></activity>
+
+
     </application>
 
 </manifest>
